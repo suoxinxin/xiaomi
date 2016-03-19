@@ -127,7 +127,7 @@ ul, li {
 }
 
 .nav .tab .tabTitle li ul.jieshao{
-    /*display: none;*/
+    display: none;
     position: absolute;
     top:80px;
     left:-60px;
